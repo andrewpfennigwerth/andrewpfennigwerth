@@ -1,4 +1,4 @@
 <div align="center">
   <p>Visitor count</p>
-  <img src="https://glitch.me" alt="Visitor's Count" />
+  <img src="https://shields.io" alt="Visitor's Count" />
 </div>
