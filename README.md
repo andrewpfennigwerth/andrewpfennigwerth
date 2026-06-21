@@ -1,4 +1,1 @@
-<div align="center">
-  <p>Visitor count</p>
-  <img src="https://shields.io" alt="Visitor's Count" />
-</div>
+![](https://komarev.com/ghpvc/?username=andrewpfennigwerth&label=Profile+Views&style=flat)
