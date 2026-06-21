@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/?username=andrewpfennigwerth&label=Profile+Views&style=flat)
+![](https://komarev.com/ghpvc/?username=andrewpfennigwerth)
